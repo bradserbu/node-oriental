@@ -1,16 +1,14 @@
 {
   "name": "oriental",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "OrientDB library for nodejs.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Brad Serbu <bradserbu@bradserbu.com>",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/geofeedia/node-dataprocess.git"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
